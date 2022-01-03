@@ -1,5 +1,26 @@
 h1{
-    background-color: black;
+    background-color: yellow;
     color: royalblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border:solid 20px black;
 }
+p{ font-weight: bolder;
+   font-size: 20px;
+   background-color: black;
+   color: yellow;
+   text-align: justify;
+   margin: 20px 30px 20px 10px;
+   padding: 20px;
+   border-radius: 10px;
+    
+}
+.tom{
+
+       background-color: red;
+       text-align: left;
+       border:solid 2px saddlebrown;
+}
+
